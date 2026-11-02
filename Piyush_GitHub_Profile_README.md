@@ -142,8 +142,8 @@ I'm interested in conversations and opportunities around **Program Management, T
 
 I am open to conversations about technology delivery, product execution and practical AI-enabled solutions.
 
-- **GitHub:** [github.com/YOUR-USERNAME](https://github.com/YOUR-USERNAME)
-- **LinkedIn:** [Add your LinkedIn profile](LINKEDIN_URL)
-- **Email:** [Add a professional contact email](mailto:YOUR_EMAIL)
+- **GitHub:** [github.com/sampoornavirahm](https://github.com/YOUR-USERNAME)
+- **LinkedIn:** [https://www.linkedin.com/in/jcob1289/](LINKEDIN_URL)
+- **Email:** [jcob1289@gmail.com](mailto:YOUR_EMAIL)
 
 _Replace the placeholder links above with your actual profile details before publishing._
