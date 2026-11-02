@@ -1,7 +1,7 @@
 <!--
 ╔══════════════════════════════════════════════════════════════════════╗
 ║  PERSONALISE THIS README BEFORE PUBLISHING                           ║
-║  1. Replace YOUR-GITHUB-USERNAME everywhere it appears.              ║
+║  1. Replace sampoornavirahm everywhere it appears.              ║
 ║  2. Add your LinkedIn and email URLs.                                 ║
 ║  3. Replace example links with real repository / demo / case-study   ║
 ║     links. Remove any button for which you do not have a real link.   ║
@@ -23,9 +23,9 @@
 **Technology & Delivery Leader · Product Execution · Technical Project Management**
 
 <p>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-161B22?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-BB4430?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/sampoornavirahm"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-161B22?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/jcob1289/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:jcob1289@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-BB4430?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 </div>
@@ -112,7 +112,7 @@ This is the part of my profile I intend to keep updating. I use small builds to 
      remove any link button that you cannot provide yet.
 
      BUTTON OPTIONS:
-       Source Code  -> https://github.com/YOUR-GITHUB-USERNAME/REPO
+       Source Code  -> https://github.com/sampoornavirahm/REPO
        Live Demo    -> https://your-live-demo.example
        Case Study   -> https://your-blog-or-notion-link.example
        Video        -> https://www.youtube.com/watch?v=VIDEO_ID
@@ -129,7 +129,7 @@ This is the part of my profile I intend to keep updating. I use small builds to 
       <p><strong>Built with:</strong> <code>React</code> <code>Python</code> <code>SQLite</code></p>
       <p><strong>Status:</strong> <img src="https://img.shields.io/badge/status-IN%20PROGRESS-orange?style=flat-square" alt="In progress" /></p>
       <p>
-        <a href="https://github.com/YOUR-GITHUB-USERNAME/REPOSITORY"><img src="https://img.shields.io/badge/Source%20Code-View-181717?style=for-the-badge&logo=github" alt="Source code" /></a>
+        <a href="https://github.com/sampoornavirahm/REPOSITORY"><img src="https://img.shields.io/badge/Source%20Code-View-181717?style=for-the-badge&logo=github" alt="Source code" /></a>
         <a href="https://YOUR-LIVE-DEMO-LINK"><img src="https://img.shields.io/badge/Live%20Demo-Open-16845B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo" /></a>
       </p>
     </td>
@@ -140,7 +140,7 @@ This is the part of my profile I intend to keep updating. I use small builds to 
       <p><strong>Built with:</strong> <code>Flutter</code> <code>Firebase</code></p>
       <p><strong>Status:</strong> <img src="https://img.shields.io/badge/status-PROTOTYPE-blue?style=flat-square" alt="Prototype" /></p>
       <p>
-        <a href="https://github.com/YOUR-GITHUB-USERNAME/ANOTHER-REPOSITORY"><img src="https://img.shields.io/badge/Source%20Code-View-181717?style=for-the-badge&logo=github" alt="Source code" /></a>
+        <a href="https://github.com/sampoornavirahm/ANOTHER-REPOSITORY"><img src="https://img.shields.io/badge/Source%20Code-View-181717?style=for-the-badge&logo=github" alt="Source code" /></a>
         <a href="https://YOUR-CASE-STUDY-LINK"><img src="https://img.shields.io/badge/Case%20Study-Read-6956A5?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Case study" /></a>
       </p>
     </td>
@@ -160,7 +160,7 @@ This is the part of my profile I intend to keep updating. I use small builds to 
       <p><strong>Built with:</strong> <code>React</code> <code>Vite</code> <code>SQLite</code></p>
       <p><strong>Status:</strong> <img src="https://img.shields.io/badge/status-EXAMPLE%20ONLY-lightgrey?style=flat-square" alt="Example only" /></p>
       <p>
-        <a href="https://github.com/YOUR-GITHUB-USERNAME/personal-work-tracker"><img src="https://img.shields.io/badge/Source%20Code-Replace%20Link-181717?style=for-the-badge&logo=github" alt="Replace with repository link" /></a>
+        <a href="https://github.com/sampoornavirahm/personal-work-tracker"><img src="https://img.shields.io/badge/Source%20Code-Replace%20Link-181717?style=for-the-badge&logo=github" alt="Replace with repository link" /></a>
         <a href="https://your-demo-link.example"><img src="https://img.shields.io/badge/Live%20Demo-Replace%20Link-16845B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Replace with demo link" /></a>
       </p>
     </td>
