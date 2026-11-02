@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/sampoornavirahm"><img src="https://img.shields.io/badge/GitHub-sampoornavirahm-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/jjcob1289"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/jcob1289"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:jcob1289@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -212,7 +212,7 @@ For the structure I use when adding a new project, see [`PROJECT_CARD_TEMPLATE.m
 I'm open to interesting opportunities and collaborations around **product execution, technology and programme delivery, software implementation, AI-enabled products and early-stage product building**. I enjoy working with people who want to turn practical problems into useful products.
 
 <p align="center">
-  <a href="https://linkedin.com/in/jjcob1289"><img src="https://img.shields.io/badge/Let's_connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://linkedin.com/in/jcob1289"><img src="https://img.shields.io/badge/Let's_connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
   <a href="mailto:jcob1289@gmail.com"><img src="https://img.shields.io/badge/Have_an_idea%3F-Email_me-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Piyush" /></a>
 </p>
 
