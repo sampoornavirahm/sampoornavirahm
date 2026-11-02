@@ -142,8 +142,8 @@ I'm interested in conversations and opportunities around **Program Management, T
 
 I am open to conversations about technology delivery, product execution and practical AI-enabled solutions.
 
-- **GitHub:** [github.com/sampoornavirahm](https://github.com/YOUR-USERNAME)
-- **LinkedIn:** [https://www.linkedin.com/in/jcob1289/](LINKEDIN_URL)
-- **Email:** [jcob1289@gmail.com](mailto:YOUR_EMAIL)
+- **GitHub:** [Sampoornavirahm](https://github.com/sampoornavirahm)
+- **LinkedIn:** [jcob1289](https://www.linkedin.com/in/jcob1289/)
+- **Email:** [jcob1289@gmail.com](mailto:jcob1289@gmail.com)
 
 _Replace the placeholder links above with your actual profile details before publishing._
